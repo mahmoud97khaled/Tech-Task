@@ -8,7 +8,8 @@ The required task is to create a clothing type classifier
 
 you can download the data from:
 https://drive.google.com/file/d/1IJHl6YctfkI2MG1CH1VeHtsGiJAY8lXj/view
-you can download the weigh files from:
+
+you can download the weighy files from:
 https://drive.google.com/drive/folders/1tedU8fbxaaAgNf85fQ4pPsoxtofQMyah?usp=sharing
 
 Data information:
